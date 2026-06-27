@@ -4,7 +4,7 @@ This directory contains the detailed metadata and official metadata/image links 
 
 *   **Fig. 1**: Finite state diagram of petition request formula (Chioni forth.).
 *   **Fig. 2**: P.Ryl. II 140, ll.15-7 (Oxyrhynchus, ca. 50 CE).
-    *   Links: [[papyri.info](https://papyri.info/ddbdp/p.ryl;2;140)] | [[Official Image Source](https://luna.manchester.ac.uk/luna/servlet/detail/muon~32~32~104381~124233)]
+    *   Links: [[papyri.info](https://papyri.info/ddbdp/p.ryl;2;140)] | [[Official Image Source](https://luna.manchester.ac.uk/luna/servlet/detail/ManchesterDev~93~3~54875~165771:Petition-to-the-epistates-phylakito?sort=reference_number%2Cimage_sequence_number%2Cimage_title%2Cimage_number&cic=ManchesterDev%7E93%7E3)]
 *   **Fig. 3**: P.Oxy. L 3555, ll.40-3 (Oxyrhynchus, 1st-2nd century CE).
     *   Links: [[papyri.info](https://papyri.info/ddbdp/p.oxy;50;3555)] | [[Official Image Source](https://portal.sds.ox.ac.uk/articles/online_resource/P_Oxy_L_3555_Petition_to_a_Strategus/21174061?file=37546858)]
 *   **Fig. 4**: P.Oxy. XXXIV 2709, ll.15-20 (Oxyrhynchus, 206 CE).
@@ -21,7 +21,7 @@ This directory contains the detailed metadata and official metadata/image links 
     *   Links: [[papyri.info](https://papyri.info/ddbdp/p.oxy;36;2758)] | [[Official Image Source](https://doi.org/10.25446/oxford.21165898)]
 *   **Fig. 11**: Co-occurrence matrix of visual features co-occurring across formulaic components in our corpus. The values represent petition counts where features appear in combination. The diagonal values indicate the total frequency of each feature across the corpus. The off-diagonal values represent the frequency of combined usage.
 *   **Fig. 12**: P.Ryl. II 149, ll.22-5 (Euhemeria, 39 CE).
-    *   Links: [[papyri.info](https://papyri.info/ddbdp/p.ryl;2;149)] | [[Official Image Source](https://luna.manchester.ac.uk/luna/servlet/detail/muon~32~32~104443~124294)]
+    *   Links: [[papyri.info](https://papyri.info/ddbdp/p.ryl;2;149)] | [[Official Image Source](https://luna.manchester.ac.uk/luna/servlet/detail/ManchesterDev~93~3~54892~165754:Petition-to-the-strategos?sort=reference_number%2Cimage_sequence_number%2Cimage_title%2Cimage_number&cic=ManchesterDev%7E93%7E3)]
 *   **Fig. 13**: SB XXIV 16252, ll.28-32 (Karanis, 163 CE).
     *   Links: [[papyri.info](https://papyri.info/ddbdp/sb;24;16252)] | [[Official Image Source](https://quod.lib.umich.edu/a/apis/x-1660/3000r.tif)]
 *   **Fig. 14**: P.Fam.Tebt. 43, ll.39-48 (Antinoopolis, 182 CE).
