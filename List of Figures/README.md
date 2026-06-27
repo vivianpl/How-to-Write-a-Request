@@ -18,7 +18,7 @@ This directory contains the detailed metadata and official image links for the p
     *   Links: [[papyri.info](https://papyri.info/ddbdp/p.oxy;36;2758)] | [[Official Image Source](https://doi.org/10.25446/oxford.21165898)]
 *   **P.Ryl. II 149**, ll.22-5 (Euhemeria, 39 CE).
     *   Links: [[papyri.info](https://papyri.info/ddbdp/p.ryl;2;149)] | [[Official Image Source](https://luna.manchester.ac.uk/luna/servlet/detail/ManchesterDev~93~3~54892~165754:Petition-to-the-strategos?sort=reference_number%2Cimage_sequence_number%2Cimage_title%2Cimage_number&cic=ManchesterDev%7E93%7E3)]
-*   **FSB XXIV 16252**, ll.28-32 (Karanis, 163 CE).
+*   **SB XXIV 16252**, ll.28-32 (Karanis, 163 CE).
     *   Links: [[papyri.info](https://papyri.info/ddbdp/sb;24;16252)] | [[Official Image Source](https://quod.lib.umich.edu/a/apis/x-1660/3000r.tif)]
 *   **P.Fam.Tebt. 43**, ll.39-48 (Antinoopolis, 182 CE).
     *   Links: [[papyri.info](https://papyri.info/ddbdp/p.fam.tebt;;43)] | [[Official Image Source](https://searcharchives.bl.uk/catalog/040-003678323)]
