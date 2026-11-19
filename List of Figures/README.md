@@ -2,6 +2,8 @@
 
 This directory contains the detailed metadata and official image links for the papyrological editions presented in the study.
 
+*   **P.Laur. IV 156**, l.12 (Oxyrhynchus, 257 CE).
+    *   Links: [[papyri.info](https://papyri.info/editions/p.laur/4/156?rows=3&start=33654&fl=id,title&fq=collection:ddbdp&sort=series+asc,volume+asc,item+asc&wt=xml&p=33655&t=62178)] | [[Official Image Source](https://psi-online.it/documents/plaur;4;156)]
 *   **P.Ryl. II 140**, ll.15-7 (Oxyrhynchus, ca. 50 CE).
     *   Links: [[papyri.info](https://papyri.info/ddbdp/p.ryl;2;140)] | [[Official Image Source](https://luna.manchester.ac.uk/luna/servlet/detail/ManchesterDev~93~3~54875~165771:Petition-to-the-epistates-phylakito?sort=reference_number%2Cimage_sequence_number%2Cimage_title%2Cimage_number&cic=ManchesterDev%7E93%7E3)]
 *   **P.Oxy. L 3555**, ll.40-3 (Oxyrhynchus, 1st-2nd century CE).
